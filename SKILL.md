@@ -4,7 +4,7 @@ description: Map the epistemic foundations of a domain, belief system, or projec
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4034
+  version: 1.0.4035
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - foundational-certainty-mapping
